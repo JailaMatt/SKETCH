@@ -4,7 +4,6 @@ def setup():
     Rianna = 200
     background(255, 255, Rianna)
     line(Jaila, Rianna, 450, 350)
-    line(150, 350, Jaila, Rianna)
     fill(255, 0, 0, 191)
     rect(Rianna, Jaila, Rianna, Rianna)
     rect(Rianna, Jaila, 50, 100)
